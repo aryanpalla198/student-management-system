@@ -1,6 +1,12 @@
 # 🎓 AcademiaSMS: Enterprise Student Management System
 
-A desktop application designed for institutional academic administration. Built with Python 3, Tkinter/ttk, and SQLite, featuring a layered architecture, optimistic concurrency control, role-based access control (RBAC), and bulk data processing.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aryanpalla198.github.io/student-management-system/)
+[![Tests](https://img.shields.io/badge/Tests-45%20Passed%20(92%25%20Coverage)-10B981?style=for-the-badge&logo=pytest&logoColor=white)](https://github.com/aryanpalla198/student-management-system)
+[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/aryanpalla198/student-management-system)
+
+> 🌐 **Live Web Application in Chrome:** **[https://aryanpalla198.github.io/student-management-system/](https://aryanpalla198.github.io/student-management-system/)**
+
+A high-performance enterprise application designed for institutional academic administration. Available as both a **Desktop Application** (Tkinter/ttk + SQLite WAL) and a **Live Web Application** (Chrome / GitHub Pages).
 
 ---
 
